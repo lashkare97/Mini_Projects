@@ -1,6 +1,7 @@
+# Please also refer my CV
 # These files was created during my student job as a HiWi. Please note that these are the rough scripts, while originals are not provided due to NDA.
 
-## CSV Corrector
+## CSV Corrector.py
 - File name CSV was given from the .csv files.
 - Purpose of this was to correct the laser printer angle which was directly connected to a .csv file, where x and y coordinates were provided.
 
@@ -16,7 +17,7 @@
 - This is a Variational Autoencoder, it is carried out from a standard template, however, multiple changes were carried out.
 - The parameters played a crucial role, which allowed the VAE to work efficiently that it provided us with 100% accurate results. Please note that, pre-processing of images were carried out.
 
-## VisioPro
+## VisioPro.py
 - An alternate to VAE_4, this was created from scratch to detect any part of an complete image for the purpose of tracking the original image/part.
 
 ## Detection.cpp
