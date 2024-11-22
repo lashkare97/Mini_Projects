@@ -1,4 +1,4 @@
-# These files was created during my student job as a HiWi.
+# These files was created during my student job as a HiWi. Please note that these are the rough scripts, while originals are not provided due to NDA.
 
 ## CSV Corrector
 - File name CSV was given from the .csv files.
